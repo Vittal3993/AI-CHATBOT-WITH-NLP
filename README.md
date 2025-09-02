@@ -44,4 +44,6 @@ Simple CLI interface for interaction
 Easily extendable for future enhancements
 
 
+Working chatbot output photo :-
+
 <img width="904" height="428" alt="Image" src="https://github.com/user-attachments/assets/9954fd5b-f425-4e3b-88df-fa5e55fcd1e5" />
